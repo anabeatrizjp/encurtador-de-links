@@ -1,3 +1,17 @@
+body{
+    background-image: url("https://raw.githubusercontent.com/jeffersondesouza/mentoria-arretada/master/assets/background-home.jpg");
+}
 #corpo {
     text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    background-color: white;
+    padding-right: 50%;
+    padding-left: 50%;
+    padding-top: 1%;
+}
+#buttonColor{
+    color: orange;
 }
